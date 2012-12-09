@@ -52,3 +52,17 @@ package operates much like the fleqn class option (no leaders).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.1-2
++ Revision: 751063
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.1-1
++ Revision: 718250
+- texlive-dotseqn
+- texlive-dotseqn
+- texlive-dotseqn
+- texlive-dotseqn
+
