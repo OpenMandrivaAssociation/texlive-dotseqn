@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-dotseqn
 Version:	1.1
-Release:	10
+Release:	11
 Summary:	Flush left equations with dotted leaders to the numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dotseqn
