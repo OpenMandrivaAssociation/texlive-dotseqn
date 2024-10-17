@@ -3,7 +3,7 @@ Version:	17195
 Release:	2
 Summary:	Flush left equations with dotted leaders to the numbers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dotseqn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dotseqn
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dotseqn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dotseqn.doc.r%{version}.tar.xz
